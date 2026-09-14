@@ -19,7 +19,8 @@ I'm a **Computer Science graduate** from Sukkur IBA University (2022-2026), pass
 
 ## 🛠️ Tech Stack
 
-### Languages![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Languages!
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -67,10 +68,6 @@ I'm a **Computer Science graduate** from Sukkur IBA University (2022-2026), pass
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manthar-Ali-Sandano&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthar-Ali-Sandano&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manthar-Ali-Sandano&layout=compact&theme=radical" alt="Top Languages" />
